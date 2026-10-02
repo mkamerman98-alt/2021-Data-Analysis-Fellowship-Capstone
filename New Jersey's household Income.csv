@@ -1,0 +1,1166 @@
+Race,Year,Household_Income_by_Race,Household_Income_by_Race_MOE,County,State
+Total,2019,63389,3294,Atlantic,NJ
+Total,2019,108827,3521,Bergen,NJ
+Total,2019,88797,3533,Burlington,NJ
+Total,2019,73672,2694,Camden,NJ
+Total,2019,69980,7037,Cape May,NJ
+Total,2019,54587,5572,Cumberland,NJ
+Total,2019,64626,2713,Essex,NJ
+Total,2019,89447,5967,Gloucester,NJ
+Total,2019,78808,3056,Hudson,NJ
+Total,2019,116155,9654,Hunterdon,NJ
+Total,2019,79492,5633,Mercer,NJ
+Total,2019,93418,3720,Middlesex,NJ
+Total,2019,102870,2944,Monmouth,NJ
+Total,2019,116283,4894,Morris,NJ
+Total,2019,76093,2971,Ocean,NJ
+Total,2019,77040,2556,Passaic,NJ
+Total,2019,68531,3073,Salem,NJ
+Total,2019,111587,6959,Somerset,NJ
+Total,2019,101130,4090,Sussex,NJ
+Total,2019,80339,3814,Union,NJ
+Total,2019,84479,4078,Warren,NJ
+White,2019,74124,4645,Atlantic,NJ
+White,2019,107155,3633,Bergen,NJ
+White,2019,92821,3297,Burlington,NJ
+White,2019,90613,4557,Camden,NJ
+White,2019,75195,7589,Cape May,NJ
+White,2019,60861,8892,Cumberland,NJ
+White,2019,89413,4840,Essex,NJ
+White,2019,91079,3442,Gloucester,NJ
+White,2019,80166,3264,Hudson,NJ
+White,2019,116426,10133,Hunterdon,NJ
+White,2019,91365,6698,Mercer,NJ
+White,2019,86045,3477,Middlesex,NJ
+White,2019,107232,4125,Monmouth,NJ
+White,2019,117389,5572,Morris,NJ
+White,2019,76160,2762,Ocean,NJ
+White,2019,85191,4678,Passaic,NJ
+White,2019,71805,3483,Salem,NJ
+White,2019,113889,6311,Somerset,NJ
+White,2019,100820,4318,Sussex,NJ
+White,2019,93618,8094,Union,NJ
+White,2019,84751,5447,Warren,NJ
+Black,2019,32179,2872,Atlantic,NJ
+Black,2019,70672,11941,Bergen,NJ
+Black,2019,73305,6731,Burlington,NJ
+Black,2019,49515,7596,Camden,NJ
+Black,2019,35957,3633,Cape May,NJ
+Black,2019,39772,18269,Cumberland,NJ
+Black,2019,49566,3493,Essex,NJ
+Black,2019,67115,12446,Gloucester,NJ
+Black,2019,49370,10140,Hudson,NJ
+Black,2019,48350,11369,Mercer,NJ
+Black,2019,75871,9711,Middlesex,NJ
+Black,2019,57096,15234,Monmouth,NJ
+Black,2019,73208,39656,Morris,NJ
+Black,2019,59954,15410,Ocean,NJ
+Black,2019,50068,15460,Passaic,NJ
+Black,2019,34893,8527,Salem,NJ
+Black,2019,86440,7725,Somerset,NJ
+Black,2019,250001,NA,Sussex,NJ
+Black,2019,60385,6317,Union,NJ
+Black,2019,66666,19914,Warren,NJ
+Native American,2019,38397,26023,Atlantic,NJ
+Native American,2019,184617,72747,Bergen,NJ
+Native American,2019,149386,67766,Burlington,NJ
+Native American,2019,59304,36919,Camden,NJ
+Native American,2019,36924,17763,Cumberland,NJ
+Native American,2019,73603,27389,Essex,NJ
+Native American,2019,59028,13282,Hudson,NJ
+Native American,2019,52153,16583,Passaic,NJ
+Asian,2019,60685,6236,Atlantic,NJ
+Asian,2019,131639,4479,Bergen,NJ
+Asian,2019,91552,30019,Burlington,NJ
+Asian,2019,82129,18042,Camden,NJ
+Asian,2019,66277,20508,Cumberland,NJ
+Asian,2019,144104,15394,Essex,NJ
+Asian,2019,113046,18307,Gloucester,NJ
+Asian,2019,120248,8661,Hudson,NJ
+Asian,2019,130603,48359,Hunterdon,NJ
+Asian,2019,155293,20179,Mercer,NJ
+Asian,2019,130480,10656,Middlesex,NJ
+Asian,2019,135403,18508,Monmouth,NJ
+Asian,2019,146364,26822,Morris,NJ
+Asian,2019,89070,28355,Ocean,NJ
+Asian,2019,87010,27735,Passaic,NJ
+Asian,2019,75558,73974,Salem,NJ
+Asian,2019,156089,16718,Somerset,NJ
+Asian,2019,92636,33350,Sussex,NJ
+Asian,2019,119144,16080,Union,NJ
+Asian,2019,133160,62124,Warren,NJ
+Other,2019,48166,16505,Atlantic,NJ
+Other,2019,80114,11069,Bergen,NJ
+Other,2019,80117,49168,Burlington,NJ
+Other,2019,34130,8864,Camden,NJ
+Other,2019,82756,52974,Cape May,NJ
+Other,2019,59071,34758,Cumberland,NJ
+Other,2019,44538,7245,Essex,NJ
+Other,2019,61003,6236,Hudson,NJ
+Other,2019,40851,33054,Mercer,NJ
+Other,2019,81787,15247,Middlesex,NJ
+Other,2019,72932,32814,Monmouth,NJ
+Other,2019,75375,7934,Morris,NJ
+Other,2019,86650,18528,Ocean,NJ
+Other,2019,53818,2930,Passaic,NJ
+Other,2019,11457,1140,Salem,NJ
+Other,2019,61789,11695,Somerset,NJ
+Other,2019,80714,27007,Sussex,NJ
+Other,2019,59262,6629,Union,NJ
+Other,2019,115417,76794,Warren,NJ
+Two Or More,2019,64460,17016,Atlantic,NJ
+Two Or More,2019,113366,26594,Bergen,NJ
+Two Or More,2019,66038,25320,Burlington,NJ
+Two Or More,2019,52330,20636,Camden,NJ
+Two Or More,2019,28447,25881,Cape May,NJ
+Two Or More,2019,74003,16604,Cumberland,NJ
+Two Or More,2019,65307,18119,Essex,NJ
+Two Or More,2019,67100,25473,Hudson,NJ
+Two Or More,2019,169481,95148,Hunterdon,NJ
+Two Or More,2019,95612,36212,Mercer,NJ
+Two Or More,2019,96404,23148,Middlesex,NJ
+Two Or More,2019,90194,43134,Monmouth,NJ
+Two Or More,2019,81797,30215,Morris,NJ
+Two Or More,2019,80045,25858,Ocean,NJ
+Two Or More,2019,90482,17768,Passaic,NJ
+Two Or More,2019,32125,9300,Salem,NJ
+Two Or More,2019,166575,105633,Somerset,NJ
+Two Or More,2019,80531,19068,Union,NJ
+Two Or More,2019,103937,23039,Warren,NJ
+White Non-Hispanic,2019,77471,6722,Atlantic,NJ
+White Non-Hispanic,2019,114582,5145,Bergen,NJ
+White Non-Hispanic,2019,94538,3713,Burlington,NJ
+White Non-Hispanic,2019,93293,5074,Camden,NJ
+White Non-Hispanic,2019,77292,7907,Cape May,NJ
+White Non-Hispanic,2019,69827,9555,Cumberland,NJ
+White Non-Hispanic,2019,108873,6007,Essex,NJ
+White Non-Hispanic,2019,91133,3497,Gloucester,NJ
+White Non-Hispanic,2019,102880,5861,Hudson,NJ
+White Non-Hispanic,2019,118450,8778,Hunterdon,NJ
+White Non-Hispanic,2019,94565,7789,Mercer,NJ
+White Non-Hispanic,2019,91917,3849,Middlesex,NJ
+White Non-Hispanic,2019,108816,4459,Monmouth,NJ
+White Non-Hispanic,2019,125264,5720,Morris,NJ
+White Non-Hispanic,2019,76977,2959,Ocean,NJ
+White Non-Hispanic,2019,96590,5227,Passaic,NJ
+White Non-Hispanic,2019,72875,5382,Salem,NJ
+White Non-Hispanic,2019,115713,7258,Somerset,NJ
+White Non-Hispanic,2019,102127,5507,Sussex,NJ
+White Non-Hispanic,2019,107571,8356,Union,NJ
+White Non-Hispanic,2019,84329,5261,Warren,NJ
+Hispanic,2019,47350,4565,Atlantic,NJ
+Hispanic,2019,83506,9931,Bergen,NJ
+Hispanic,2019,75371,8903,Burlington,NJ
+Hispanic,2019,44697,9159,Camden,NJ
+Hispanic,2019,65008,9965,Cape May,NJ
+Hispanic,2019,41918,14619,Cumberland,NJ
+Hispanic,2019,55037,3906,Essex,NJ
+Hispanic,2019,71755,34787,Gloucester,NJ
+Hispanic,2019,54658,4846,Hudson,NJ
+Hispanic,2019,61878,35990,Hunterdon,NJ
+Hispanic,2019,62145,7649,Mercer,NJ
+Hispanic,2019,69311,7425,Middlesex,NJ
+Hispanic,2019,81092,18863,Monmouth,NJ
+Hispanic,2019,70832,7120,Morris,NJ
+Hispanic,2019,73201,5996,Ocean,NJ
+Hispanic,2019,57492,3850,Passaic,NJ
+Hispanic,2019,73985,6722,Somerset,NJ
+Hispanic,2019,76628,17853,Sussex,NJ
+Hispanic,2019,60369,5683,Union,NJ
+Hispanic,2019,91250,32088,Warren,NJ
+Total,2018,61212,1916,Atlantic,NJ
+Total,2018,100361,1745,Bergen,NJ
+Total,2018,84889,3734,Burlington,NJ
+Total,2018,67523,2954,Camden,NJ
+Total,2018,67007,8412,Cape May,NJ
+Total,2018,52795,6151,Cumberland,NJ
+Total,2018,63368,3408,Essex,NJ
+Total,2018,81849,5053,Gloucester,NJ
+Total,2018,74414,2617,Hudson,NJ
+Total,2018,111269,5996,Hunterdon,NJ
+Total,2018,80632,3738,Mercer,NJ
+Total,2018,88217,3450,Middlesex,NJ
+Total,2018,99642,2906,Monmouth,NJ
+Total,2018,112288,3704,Morris,NJ
+Total,2018,68551,1934,Ocean,NJ
+Total,2018,75259,4240,Passaic,NJ
+Total,2018,65733,5736,Salem,NJ
+Total,2018,121378,6478,Somerset,NJ
+Total,2018,92818,4908,Sussex,NJ
+Total,2018,82186,4251,Union,NJ
+Total,2018,77452,5814,Warren,NJ
+White,2018,71513,6513,Atlantic,NJ
+White,2018,102061,2968,Bergen,NJ
+White,2018,88588,3201,Burlington,NJ
+White,2018,80160,2580,Camden,NJ
+White,2018,68125,9002,Cape May,NJ
+White,2018,58199,7739,Cumberland,NJ
+White,2018,97933,6875,Essex,NJ
+White,2018,85537,4862,Gloucester,NJ
+White,2018,75677,2202,Hudson,NJ
+White,2018,110272,7418,Hunterdon,NJ
+White,2018,88839,7349,Mercer,NJ
+White,2018,79079,3334,Middlesex,NJ
+White,2018,102128,2909,Monmouth,NJ
+White,2018,111690,4668,Morris,NJ
+White,2018,68279,2112,Ocean,NJ
+White,2018,81209,2987,Passaic,NJ
+White,2018,73297,6106,Salem,NJ
+White,2018,120659,6571,Somerset,NJ
+White,2018,92582,4383,Sussex,NJ
+White,2018,95249,4063,Union,NJ
+White,2018,79905,7831,Warren,NJ
+Black,2018,46433,10712,Atlantic,NJ
+Black,2018,66532,13721,Bergen,NJ
+Black,2018,71447,8236,Burlington,NJ
+Black,2018,45519,9597,Camden,NJ
+Black,2018,18658,16381,Cape May,NJ
+Black,2018,37369,7041,Cumberland,NJ
+Black,2018,45104,3772,Essex,NJ
+Black,2018,44242,20502,Gloucester,NJ
+Black,2018,53739,3777,Hudson,NJ
+Black,2018,50013,7181,Mercer,NJ
+Black,2018,80621,9440,Middlesex,NJ
+Black,2018,52490,7492,Monmouth,NJ
+Black,2018,70945,25825,Morris,NJ
+Black,2018,67922,11448,Ocean,NJ
+Black,2018,57571,10883,Passaic,NJ
+Black,2018,40132,14138,Salem,NJ
+Black,2018,87983,8861,Somerset,NJ
+Black,2018,85682,57001,Sussex,NJ
+Black,2018,68022,9530,Union,NJ
+Native American,2018,61220,857,Atlantic,NJ
+Native American,2018,64173,5856,Bergen,NJ
+Native American,2018,66096,19349,Essex,NJ
+Native American,2018,45406,35705,Hudson,NJ
+Native American,2018,144773,86874,Middlesex,NJ
+Native American,2018,86489,10986,Monmouth,NJ
+Native American,2018,26067,977,Salem,NJ
+Native American,2018,140625,14984,Union,NJ
+Asian,2018,57005,9354,Atlantic,NJ
+Asian,2018,109427,6697,Bergen,NJ
+Asian,2018,127854,23142,Burlington,NJ
+Asian,2018,97572,18657,Camden,NJ
+Asian,2018,136892,20613,Essex,NJ
+Asian,2018,125576,24338,Gloucester,NJ
+Asian,2018,115419,11655,Hudson,NJ
+Asian,2018,166906,93250,Hunterdon,NJ
+Asian,2018,146936,17175,Mercer,NJ
+Asian,2018,119221,5521,Middlesex,NJ
+Asian,2018,121178,13863,Monmouth,NJ
+Asian,2018,142880,19158,Morris,NJ
+Asian,2018,67022,41083,Ocean,NJ
+Asian,2018,105526,17530,Passaic,NJ
+Asian,2018,156776,12765,Somerset,NJ
+Asian,2018,139375,88249,Sussex,NJ
+Asian,2018,129729,13694,Union,NJ
+Asian,2018,118358,82640,Warren,NJ
+Other,2018,41391,17373,Atlantic,NJ
+Other,2018,66851,10717,Bergen,NJ
+Other,2018,60489,22334,Burlington,NJ
+Other,2018,30965,5486,Camden,NJ
+Other,2018,80081,29107,Cape May,NJ
+Other,2018,43780,22829,Cumberland,NJ
+Other,2018,40523,5734,Essex,NJ
+Other,2018,53359,42655,Gloucester,NJ
+Other,2018,49055,6891,Hudson,NJ
+Other,2018,63974,15898,Mercer,NJ
+Other,2018,61924,15617,Middlesex,NJ
+Other,2018,42998,26801,Monmouth,NJ
+Other,2018,81910,39188,Morris,NJ
+Other,2018,78121,12025,Ocean,NJ
+Other,2018,54652,10254,Passaic,NJ
+Other,2018,9376,5549,Salem,NJ
+Other,2018,60560,22428,Somerset,NJ
+Other,2018,135404,44439,Sussex,NJ
+Other,2018,57773,5805,Union,NJ
+Other,2018,33424,23999,Warren,NJ
+Two Or More,2018,60587,37247,Atlantic,NJ
+Two Or More,2018,120183,19956,Bergen,NJ
+Two Or More,2018,59939,19965,Burlington,NJ
+Two Or More,2018,54285,13296,Camden,NJ
+Two Or More,2018,64630,20405,Cumberland,NJ
+Two Or More,2018,69919,20686,Essex,NJ
+Two Or More,2018,50735,42990,Gloucester,NJ
+Two Or More,2018,73607,10680,Hudson,NJ
+Two Or More,2018,213009,73432,Hunterdon,NJ
+Two Or More,2018,109477,44013,Mercer,NJ
+Two Or More,2018,91648,16569,Middlesex,NJ
+Two Or More,2018,111815,64252,Monmouth,NJ
+Two Or More,2018,66463,24729,Morris,NJ
+Two Or More,2018,43967,38867,Ocean,NJ
+Two Or More,2018,97917,24829,Passaic,NJ
+Two Or More,2018,82310,80881,Salem,NJ
+Two Or More,2018,78526,5385,Sussex,NJ
+Two Or More,2018,76108,18738,Union,NJ
+Two Or More,2018,62804,17022,Warren,NJ
+White Non-Hispanic,2018,75140,5050,Atlantic,NJ
+White Non-Hispanic,2018,109105,4275,Bergen,NJ
+White Non-Hispanic,2018,88778,3427,Burlington,NJ
+White Non-Hispanic,2018,82034,2592,Camden,NJ
+White Non-Hispanic,2018,69352,8187,Cape May,NJ
+White Non-Hispanic,2018,66797,5482,Cumberland,NJ
+White Non-Hispanic,2018,115144,8472,Essex,NJ
+White Non-Hispanic,2018,85078,5066,Gloucester,NJ
+White Non-Hispanic,2018,99630,4447,Hudson,NJ
+White Non-Hispanic,2018,110941,6120,Hunterdon,NJ
+White Non-Hispanic,2018,100214,4752,Mercer,NJ
+White Non-Hispanic,2018,84917,6263,Middlesex,NJ
+White Non-Hispanic,2018,103787,3281,Monmouth,NJ
+White Non-Hispanic,2018,118292,6158,Morris,NJ
+White Non-Hispanic,2018,68686,2109,Ocean,NJ
+White Non-Hispanic,2018,91335,5115,Passaic,NJ
+White Non-Hispanic,2018,76690,6935,Salem,NJ
+White Non-Hispanic,2018,129574,5242,Somerset,NJ
+White Non-Hispanic,2018,92770,4930,Sussex,NJ
+White Non-Hispanic,2018,108024,9168,Union,NJ
+White Non-Hispanic,2018,78175,7424,Warren,NJ
+Hispanic,2018,47650,7810,Atlantic,NJ
+Hispanic,2018,72129,9791,Bergen,NJ
+Hispanic,2018,75334,14956,Burlington,NJ
+Hispanic,2018,35574,6448,Camden,NJ
+Hispanic,2018,61352,29566,Cape May,NJ
+Hispanic,2018,37397,7712,Cumberland,NJ
+Hispanic,2018,49663,4823,Essex,NJ
+Hispanic,2018,81372,26178,Gloucester,NJ
+Hispanic,2018,48922,2859,Hudson,NJ
+Hispanic,2018,103619,46116,Hunterdon,NJ
+Hispanic,2018,50952,9328,Mercer,NJ
+Hispanic,2018,64789,7603,Middlesex,NJ
+Hispanic,2018,58879,12447,Monmouth,NJ
+Hispanic,2018,84569,7878,Morris,NJ
+Hispanic,2018,70682,6745,Ocean,NJ
+Hispanic,2018,57680,7916,Passaic,NJ
+Hispanic,2018,74420,7005,Somerset,NJ
+Hispanic,2018,94391,26511,Sussex,NJ
+Hispanic,2018,60185,7202,Union,NJ
+Hispanic,2018,62661,18877,Warren,NJ
+Total,2017,61777,4761,Atlantic,NJ
+Total,2017,94107,3217,Bergen,NJ
+Total,2017,87673,3575,Burlington,NJ
+Total,2017,66196,2791,Camden,NJ
+Total,2017,66953,4018,Cape May,NJ
+Total,2017,52627,4020,Cumberland,NJ
+Total,2017,60430,2154,Essex,NJ
+Total,2017,86496,5201,Gloucester,NJ
+Total,2017,67154,3928,Hudson,NJ
+Total,2017,112038,8168,Hunterdon,NJ
+Total,2017,79173,5088,Mercer,NJ
+Total,2017,85337,1953,Middlesex,NJ
+Total,2017,98270,3365,Monmouth,NJ
+Total,2017,114732,5081,Morris,NJ
+Total,2017,71081,2643,Ocean,NJ
+Total,2017,64233,3610,Passaic,NJ
+Total,2017,61250,11275,Salem,NJ
+Total,2017,112153,5663,Somerset,NJ
+Total,2017,90026,4770,Sussex,NJ
+Total,2017,77326,2731,Union,NJ
+Total,2017,80657,5109,Warren,NJ
+White,2017,71719,6058,Atlantic,NJ
+White,2017,94281,4191,Bergen,NJ
+White,2017,90984,3182,Burlington,NJ
+White,2017,75707,4013,Camden,NJ
+White,2017,67801,4684,Cape May,NJ
+White,2017,56876,5229,Cumberland,NJ
+White,2017,92419,5596,Essex,NJ
+White,2017,90843,3675,Gloucester,NJ
+White,2017,67981,4385,Hudson,NJ
+White,2017,111815,8233,Hunterdon,NJ
+White,2017,88031,4798,Mercer,NJ
+White,2017,80616,2405,Middlesex,NJ
+White,2017,101536,2160,Monmouth,NJ
+White,2017,115909,5145,Morris,NJ
+White,2017,71784,2852,Ocean,NJ
+White,2017,73755,2803,Passaic,NJ
+White,2017,70739,7794,Salem,NJ
+White,2017,106864,8730,Somerset,NJ
+White,2017,90388,4047,Sussex,NJ
+White,2017,89684,4317,Union,NJ
+White,2017,81767,6111,Warren,NJ
+Black,2017,31439,7268,Atlantic,NJ
+Black,2017,73380,8725,Bergen,NJ
+Black,2017,76004,6568,Burlington,NJ
+Black,2017,46962,4100,Camden,NJ
+Black,2017,80022,42457,Cape May,NJ
+Black,2017,32291,7207,Cumberland,NJ
+Black,2017,42083,2346,Essex,NJ
+Black,2017,43860,8894,Gloucester,NJ
+Black,2017,46024,5513,Hudson,NJ
+Black,2017,41118,4237,Mercer,NJ
+Black,2017,67366,8650,Middlesex,NJ
+Black,2017,55261,9890,Monmouth,NJ
+Black,2017,90828,20765,Morris,NJ
+Black,2017,56379,27011,Ocean,NJ
+Black,2017,47909,7394,Passaic,NJ
+Black,2017,31284,12048,Salem,NJ
+Black,2017,71742,28305,Somerset,NJ
+Black,2017,53773,4670,Union,NJ
+Black,2017,58487,36924,Warren,NJ
+Native American,2017,92719,20627,Bergen,NJ
+Native American,2017,102581,43552,Burlington,NJ
+Native American,2017,28500,24133,Cumberland,NJ
+Native American,2017,188641,174617,Essex,NJ
+Native American,2017,62941,19243,Hudson,NJ
+Native American,2017,128061,117606,Middlesex,NJ
+Native American,2017,75853,36437,Morris,NJ
+Native American,2017,102628,45078,Passaic,NJ
+Native American,2017,32855,10910,Union,NJ
+Asian,2017,80053,13119,Atlantic,NJ
+Asian,2017,109067,9214,Bergen,NJ
+Asian,2017,110642,19813,Burlington,NJ
+Asian,2017,93387,11709,Camden,NJ
+Asian,2017,65637,34283,Cape May,NJ
+Asian,2017,136764,13850,Essex,NJ
+Asian,2017,117516,19879,Gloucester,NJ
+Asian,2017,104239,7332,Hudson,NJ
+Asian,2017,122161,26259,Hunterdon,NJ
+Asian,2017,154978,14572,Mercer,NJ
+Asian,2017,120608,6440,Middlesex,NJ
+Asian,2017,168745,15418,Monmouth,NJ
+Asian,2017,135180,16567,Morris,NJ
+Asian,2017,78597,27129,Ocean,NJ
+Asian,2017,95196,26884,Passaic,NJ
+Asian,2017,54389,7782,Salem,NJ
+Asian,2017,161994,21977,Somerset,NJ
+Asian,2017,120542,12469,Union,NJ
+Asian,2017,117600,59474,Warren,NJ
+Other,2017,37569,7443,Atlantic,NJ
+Other,2017,85025,17500,Bergen,NJ
+Other,2017,88768,36122,Burlington,NJ
+Other,2017,33653,8385,Camden,NJ
+Other,2017,21334,4250,Cape May,NJ
+Other,2017,30889,20678,Cumberland,NJ
+Other,2017,34220,5460,Essex,NJ
+Other,2017,48945,19468,Gloucester,NJ
+Other,2017,46937,4837,Hudson,NJ
+Other,2017,117708,42383,Hunterdon,NJ
+Other,2017,34541,27186,Mercer,NJ
+Other,2017,56609,6820,Middlesex,NJ
+Other,2017,59044,22671,Monmouth,NJ
+Other,2017,71680,19801,Morris,NJ
+Other,2017,54023,9324,Ocean,NJ
+Other,2017,41204,4879,Passaic,NJ
+Other,2017,24278,8441,Salem,NJ
+Other,2017,56685,50217,Somerset,NJ
+Other,2017,57742,9323,Union,NJ
+Two Or More,2017,34552,16346,Atlantic,NJ
+Two Or More,2017,88313,13784,Bergen,NJ
+Two Or More,2017,63036,12189,Burlington,NJ
+Two Or More,2017,75132,37128,Camden,NJ
+Two Or More,2017,59959,29851,Cumberland,NJ
+Two Or More,2017,66264,14349,Essex,NJ
+Two Or More,2017,70789,26045,Hudson,NJ
+Two Or More,2017,97879,58252,Mercer,NJ
+Two Or More,2017,93167,18090,Middlesex,NJ
+Two Or More,2017,123675,40715,Monmouth,NJ
+Two Or More,2017,90075,54877,Morris,NJ
+Two Or More,2017,72453,39556,Ocean,NJ
+Two Or More,2017,53532,21446,Passaic,NJ
+Two Or More,2017,91331,60966,Somerset,NJ
+Two Or More,2017,80652,33936,Sussex,NJ
+Two Or More,2017,50984,28158,Union,NJ
+Two Or More,2017,71400,67506,Warren,NJ
+White Non-Hispanic,2017,74827,7722,Atlantic,NJ
+White Non-Hispanic,2017,100668,3114,Bergen,NJ
+White Non-Hispanic,2017,91760,3199,Burlington,NJ
+White Non-Hispanic,2017,80731,2761,Camden,NJ
+White Non-Hispanic,2017,70626,3177,Cape May,NJ
+White Non-Hispanic,2017,65351,7357,Cumberland,NJ
+White Non-Hispanic,2017,104806,6030,Essex,NJ
+White Non-Hispanic,2017,91073,3751,Gloucester,NJ
+White Non-Hispanic,2017,92887,6276,Hudson,NJ
+White Non-Hispanic,2017,112649,11299,Hunterdon,NJ
+White Non-Hispanic,2017,96639,7863,Mercer,NJ
+White Non-Hispanic,2017,86425,2977,Middlesex,NJ
+White Non-Hispanic,2017,102500,2703,Monmouth,NJ
+White Non-Hispanic,2017,120188,4432,Morris,NJ
+White Non-Hispanic,2017,71488,2859,Ocean,NJ
+White Non-Hispanic,2017,84282,4596,Passaic,NJ
+White Non-Hispanic,2017,75137,9660,Salem,NJ
+White Non-Hispanic,2017,111745,6762,Somerset,NJ
+White Non-Hispanic,2017,89258,4879,Sussex,NJ
+White Non-Hispanic,2017,104049,6272,Union,NJ
+White Non-Hispanic,2017,82594,7163,Warren,NJ
+Hispanic,2017,38719,6684,Atlantic,NJ
+Hispanic,2017,77560,6048,Bergen,NJ
+Hispanic,2017,74458,11819,Burlington,NJ
+Hispanic,2017,36566,7700,Camden,NJ
+Hispanic,2017,39468,39361,Cape May,NJ
+Hispanic,2017,41092,2904,Cumberland,NJ
+Hispanic,2017,45581,4461,Essex,NJ
+Hispanic,2017,56012,16610,Gloucester,NJ
+Hispanic,2017,44511,3132,Hudson,NJ
+Hispanic,2017,101284,18694,Hunterdon,NJ
+Hispanic,2017,49375,9372,Mercer,NJ
+Hispanic,2017,58673,5005,Middlesex,NJ
+Hispanic,2017,72973,7002,Monmouth,NJ
+Hispanic,2017,82605,17436,Morris,NJ
+Hispanic,2017,71480,12452,Ocean,NJ
+Hispanic,2017,45408,2916,Passaic,NJ
+Hispanic,2017,22340,5608,Salem,NJ
+Hispanic,2017,75935,19206,Somerset,NJ
+Hispanic,2017,94480,11631,Sussex,NJ
+Hispanic,2017,58924,4607,Union,NJ
+Hispanic,2017,44877,40694,Warren,NJ
+Total,2016,56778,4087,Atlantic,NJ
+Total,2016,93683,2945,Bergen,NJ
+Total,2016,80254,2473,Burlington,NJ
+Total,2016,66362,2427,Camden,NJ
+Total,2016,62548,5723,Cape May,NJ
+Total,2016,49110,6123,Cumberland,NJ
+Total,2016,54277,3129,Essex,NJ
+Total,2016,79879,3469,Gloucester,NJ
+Total,2016,63808,2273,Hudson,NJ
+Total,2016,113684,5897,Hunterdon,NJ
+Total,2016,77650,3580,Mercer,NJ
+Total,2016,82375,2271,Middlesex,NJ
+Total,2016,90226,3538,Monmouth,NJ
+Total,2016,106985,3573,Morris,NJ
+Total,2016,62222,1646,Ocean,NJ
+Total,2016,62016,2533,Passaic,NJ
+Total,2016,53662,4916,Salem,NJ
+Total,2016,104478,3863,Somerset,NJ
+Total,2016,87829,4590,Sussex,NJ
+Total,2016,72028,2602,Union,NJ
+Total,2016,74867,4563,Warren,NJ
+White,2016,68804,2855,Atlantic,NJ
+White,2016,94156,3076,Bergen,NJ
+White,2016,82665,3561,Burlington,NJ
+White,2016,77548,2797,Camden,NJ
+White,2016,65560,4559,Cape May,NJ
+White,2016,54074,7448,Cumberland,NJ
+White,2016,82903,3774,Essex,NJ
+White,2016,82222,2798,Gloucester,NJ
+White,2016,67223,3081,Hudson,NJ
+White,2016,114529,6081,Hunterdon,NJ
+White,2016,82182,3706,Mercer,NJ
+White,2016,74958,3151,Middlesex,NJ
+White,2016,95053,3823,Monmouth,NJ
+White,2016,107238,4317,Morris,NJ
+White,2016,62472,1990,Ocean,NJ
+White,2016,71269,4553,Passaic,NJ
+White,2016,57124,4737,Salem,NJ
+White,2016,106070,4218,Somerset,NJ
+White,2016,89867,5081,Sussex,NJ
+White,2016,84860,3973,Union,NJ
+White,2016,75615,5236,Warren,NJ
+Black,2016,31634,5151,Atlantic,NJ
+Black,2016,71315,12286,Bergen,NJ
+Black,2016,68006,6499,Burlington,NJ
+Black,2016,43945,5485,Camden,NJ
+Black,2016,30684,15029,Cape May,NJ
+Black,2016,30861,7224,Cumberland,NJ
+Black,2016,36957,2013,Essex,NJ
+Black,2016,58194,10312,Gloucester,NJ
+Black,2016,48382,5076,Hudson,NJ
+Black,2016,94212,10888,Hunterdon,NJ
+Black,2016,40425,10007,Mercer,NJ
+Black,2016,79036,7310,Middlesex,NJ
+Black,2016,51285,7720,Monmouth,NJ
+Black,2016,75701,18079,Morris,NJ
+Black,2016,50471,15748,Ocean,NJ
+Black,2016,34336,6670,Passaic,NJ
+Black,2016,28229,9971,Salem,NJ
+Black,2016,70854,20016,Somerset,NJ
+Black,2016,52566,43080,Sussex,NJ
+Black,2016,55146,7996,Union,NJ
+Black,2016,76558,24611,Warren,NJ
+Native American,2016,36179,23263,Atlantic,NJ
+Native American,2016,69247,32975,Bergen,NJ
+Native American,2016,53438,44483,Burlington,NJ
+Native American,2016,29524,4896,Camden,NJ
+Native American,2016,52295,48682,Cumberland,NJ
+Native American,2016,50018,13874,Hudson,NJ
+Native American,2016,20805,4165,Passaic,NJ
+Native American,2016,107803,67383,Somerset,NJ
+Asian,2016,56153,15352,Atlantic,NJ
+Asian,2016,105495,7543,Bergen,NJ
+Asian,2016,104694,18217,Burlington,NJ
+Asian,2016,73829,9759,Camden,NJ
+Asian,2016,25951,15962,Cape May,NJ
+Asian,2016,102610,3840,Essex,NJ
+Asian,2016,90981,23807,Gloucester,NJ
+Asian,2016,100412,6626,Hudson,NJ
+Asian,2016,145900,54454,Hunterdon,NJ
+Asian,2016,146491,30690,Mercer,NJ
+Asian,2016,116245,5743,Middlesex,NJ
+Asian,2016,126067,23134,Monmouth,NJ
+Asian,2016,132283,8811,Morris,NJ
+Asian,2016,91064,11312,Ocean,NJ
+Asian,2016,101741,11216,Passaic,NJ
+Asian,2016,21076,15657,Salem,NJ
+Asian,2016,152558,31613,Somerset,NJ
+Asian,2016,105941,14479,Union,NJ
+Asian,2016,59894,48953,Warren,NJ
+Pacific Islander,2016,148549,25889,Bergen,NJ
+Other,2016,43487,9057,Atlantic,NJ
+Other,2016,51700,10330,Bergen,NJ
+Other,2016,62692,44623,Burlington,NJ
+Other,2016,34726,6805,Camden,NJ
+Other,2016,55651,42299,Cape May,NJ
+Other,2016,52628,30491,Cumberland,NJ
+Other,2016,31785,4983,Essex,NJ
+Other,2016,67083,40713,Gloucester,NJ
+Other,2016,47386,4350,Hudson,NJ
+Other,2016,79475,15188,Mercer,NJ
+Other,2016,59873,6295,Middlesex,NJ
+Other,2016,58144,18035,Monmouth,NJ
+Other,2016,55511,11403,Morris,NJ
+Other,2016,40910,4285,Passaic,NJ
+Other,2016,67500,25328,Somerset,NJ
+Other,2016,40585,17522,Sussex,NJ
+Other,2016,51589,6227,Union,NJ
+Other,2016,48571,44639,Warren,NJ
+Two Or More,2016,81564,14844,Bergen,NJ
+Two Or More,2016,54763,8659,Burlington,NJ
+Two Or More,2016,53812,11651,Camden,NJ
+Two Or More,2016,25681,16793,Cape May,NJ
+Two Or More,2016,41922,13666,Essex,NJ
+Two Or More,2016,58725,16429,Hudson,NJ
+Two Or More,2016,82929,7861,Middlesex,NJ
+Two Or More,2016,73781,30055,Monmouth,NJ
+Two Or More,2016,146201,14227,Morris,NJ
+Two Or More,2016,55377,26597,Ocean,NJ
+Two Or More,2016,40487,28269,Passaic,NJ
+Two Or More,2016,72061,35181,Somerset,NJ
+Two Or More,2016,77044,63652,Sussex,NJ
+Two Or More,2016,72338,10608,Union,NJ
+Two Or More,2016,125460,119496,Warren,NJ
+White Non-Hispanic,2016,69194,3312,Atlantic,NJ
+White Non-Hispanic,2016,99748,3986,Bergen,NJ
+White Non-Hispanic,2016,82806,3632,Burlington,NJ
+White Non-Hispanic,2016,78588,2532,Camden,NJ
+White Non-Hispanic,2016,66847,3576,Cape May,NJ
+White Non-Hispanic,2016,59920,6756,Cumberland,NJ
+White Non-Hispanic,2016,100105,4531,Essex,NJ
+White Non-Hispanic,2016,82010,2817,Gloucester,NJ
+White Non-Hispanic,2016,89073,5375,Hudson,NJ
+White Non-Hispanic,2016,116542,5497,Hunterdon,NJ
+White Non-Hispanic,2016,91392,5724,Mercer,NJ
+White Non-Hispanic,2016,78066,4297,Middlesex,NJ
+White Non-Hispanic,2016,96293,3811,Monmouth,NJ
+White Non-Hispanic,2016,109131,4913,Morris,NJ
+White Non-Hispanic,2016,62482,1947,Ocean,NJ
+White Non-Hispanic,2016,88884,4838,Passaic,NJ
+White Non-Hispanic,2016,58141,4847,Salem,NJ
+White Non-Hispanic,2016,113719,6746,Somerset,NJ
+White Non-Hispanic,2016,91123,6306,Sussex,NJ
+White Non-Hispanic,2016,98584,4695,Union,NJ
+White Non-Hispanic,2016,76291,5456,Warren,NJ
+Hispanic,2016,50573,5162,Atlantic,NJ
+Hispanic,2016,73946,4677,Bergen,NJ
+Hispanic,2016,64033,17930,Burlington,NJ
+Hispanic,2016,40525,9978,Camden,NJ
+Hispanic,2016,40525,15283,Cape May,NJ
+Hispanic,2016,35205,12229,Cumberland,NJ
+Hispanic,2016,40963,3084,Essex,NJ
+Hispanic,2016,83081,22664,Gloucester,NJ
+Hispanic,2016,47321,2732,Hudson,NJ
+Hispanic,2016,59678,29107,Hunterdon,NJ
+Hispanic,2016,49752,11097,Mercer,NJ
+Hispanic,2016,61756,5279,Middlesex,NJ
+Hispanic,2016,62633,9197,Monmouth,NJ
+Hispanic,2016,78306,9366,Morris,NJ
+Hispanic,2016,59265,13700,Ocean,NJ
+Hispanic,2016,42439,3358,Passaic,NJ
+Hispanic,2016,35430,35444,Salem,NJ
+Hispanic,2016,71172,10427,Somerset,NJ
+Hispanic,2016,72245,18409,Sussex,NJ
+Hispanic,2016,53361,3095,Union,NJ
+Hispanic,2016,58870,24526,Warren,NJ
+Total,2015,54052,3806,Atlantic,NJ
+Total,2015,89023,3201,Bergen,NJ
+Total,2015,74800,3113,Burlington,NJ
+Total,2015,65025,3754,Camden,NJ
+Total,2015,57116,4361,Cape May,NJ
+Total,2015,51315,2930,Cumberland,NJ
+Total,2015,52041,1348,Essex,NJ
+Total,2015,77565,3735,Gloucester,NJ
+Total,2015,60530,1857,Hudson,NJ
+Total,2015,102122,4025,Hunterdon,NJ
+Total,2015,72417,3054,Mercer,NJ
+Total,2015,78643,3510,Middlesex,NJ
+Total,2015,87092,3611,Monmouth,NJ
+Total,2015,101661,2787,Morris,NJ
+Total,2015,63765,2132,Ocean,NJ
+Total,2015,55954,3583,Passaic,NJ
+Total,2015,68830,6340,Salem,NJ
+Total,2015,98440,4426,Somerset,NJ
+Total,2015,85086,6402,Sussex,NJ
+Total,2015,71163,2818,Union,NJ
+Total,2015,71277,6403,Warren,NJ
+White,2015,60487,3109,Atlantic,NJ
+White,2015,91265,3701,Bergen,NJ
+White,2015,80235,3053,Burlington,NJ
+White,2015,75105,3643,Camden,NJ
+White,2015,59283,4370,Cape May,NJ
+White,2015,54425,4889,Cumberland,NJ
+White,2015,80370,4488,Essex,NJ
+White,2015,81256,2718,Gloucester,NJ
+White,2015,65018,3049,Hudson,NJ
+White,2015,101734,3733,Hunterdon,NJ
+White,2015,81877,5492,Mercer,NJ
+White,2015,72957,2537,Middlesex,NJ
+White,2015,92152,2374,Monmouth,NJ
+White,2015,101748,2960,Morris,NJ
+White,2015,64138,2201,Ocean,NJ
+White,2015,72538,5395,Passaic,NJ
+White,2015,76103,7684,Salem,NJ
+White,2015,93564,6019,Somerset,NJ
+White,2015,83420,6008,Sussex,NJ
+White,2015,81451,3080,Union,NJ
+White,2015,71569,6424,Warren,NJ
+Black,2015,30810,6877,Atlantic,NJ
+Black,2015,71324,7443,Bergen,NJ
+Black,2015,56638,3769,Burlington,NJ
+Black,2015,45924,5733,Camden,NJ
+Black,2015,38302,14500,Cape May,NJ
+Black,2015,44078,15908,Cumberland,NJ
+Black,2015,36962,2704,Essex,NJ
+Black,2015,48411,8585,Gloucester,NJ
+Black,2015,40502,5159,Hudson,NJ
+Black,2015,45726,6452,Mercer,NJ
+Black,2015,61871,7168,Middlesex,NJ
+Black,2015,42210,12178,Monmouth,NJ
+Black,2015,74575,16610,Morris,NJ
+Black,2015,55317,14016,Ocean,NJ
+Black,2015,31559,6857,Passaic,NJ
+Black,2015,47335,10135,Salem,NJ
+Black,2015,82833,14651,Somerset,NJ
+Black,2015,104111,43031,Sussex,NJ
+Black,2015,56604,8759,Union,NJ
+Black,2015,85813,14328,Warren,NJ
+Native American,2015,39323,22333,Atlantic,NJ
+Native American,2015,87283,33899,Bergen,NJ
+Native American,2015,83070,6631,Burlington,NJ
+Native American,2015,51409,32095,Cumberland,NJ
+Native American,2015,34949,31076,Essex,NJ
+Native American,2015,32452,2574,Monmouth,NJ
+Native American,2015,23750,6601,Union,NJ
+Asian,2015,59871,14256,Atlantic,NJ
+Asian,2015,104808,8057,Bergen,NJ
+Asian,2015,89042,9226,Burlington,NJ
+Asian,2015,85108,14363,Camden,NJ
+Asian,2015,23161,18489,Cape May,NJ
+Asian,2015,65996,28712,Cumberland,NJ
+Asian,2015,106911,13788,Essex,NJ
+Asian,2015,123288,69447,Gloucester,NJ
+Asian,2015,100690,6112,Hudson,NJ
+Asian,2015,167557,93633,Hunterdon,NJ
+Asian,2015,131292,17585,Mercer,NJ
+Asian,2015,111159,3772,Middlesex,NJ
+Asian,2015,111089,22437,Monmouth,NJ
+Asian,2015,140851,20460,Morris,NJ
+Asian,2015,92654,39025,Ocean,NJ
+Asian,2015,93650,15958,Passaic,NJ
+Asian,2015,52557,26439,Salem,NJ
+Asian,2015,150848,10911,Somerset,NJ
+Asian,2015,127701,42529,Sussex,NJ
+Asian,2015,122994,17629,Union,NJ
+Asian,2015,80417,60990,Warren,NJ
+Pacific Islander,2015,105313,41484,Bergen,NJ
+Pacific Islander,2015,43914,11548,Hudson,NJ
+Other,2015,48718,8042,Atlantic,NJ
+Other,2015,60477,9172,Bergen,NJ
+Other,2015,60764,12917,Burlington,NJ
+Other,2015,37561,16552,Camden,NJ
+Other,2015,24733,21423,Cumberland,NJ
+Other,2015,32112,3940,Essex,NJ
+Other,2015,42704,21394,Gloucester,NJ
+Other,2015,43452,4339,Hudson,NJ
+Other,2015,47445,19152,Mercer,NJ
+Other,2015,62669,13260,Middlesex,NJ
+Other,2015,47309,18511,Monmouth,NJ
+Other,2015,62394,22992,Morris,NJ
+Other,2015,54256,25294,Ocean,NJ
+Other,2015,32058,5427,Passaic,NJ
+Other,2015,51908,33123,Somerset,NJ
+Other,2015,76165,18584,Sussex,NJ
+Other,2015,46826,9499,Union,NJ
+Other,2015,53630,41168,Warren,NJ
+Two Or More,2015,41885,16574,Atlantic,NJ
+Two Or More,2015,68156,23133,Bergen,NJ
+Two Or More,2015,49371,10499,Burlington,NJ
+Two Or More,2015,46989,13894,Camden,NJ
+Two Or More,2015,50760,41938,Cumberland,NJ
+Two Or More,2015,42403,27237,Essex,NJ
+Two Or More,2015,42038,17211,Hudson,NJ
+Two Or More,2015,191860,77122,Hunterdon,NJ
+Two Or More,2015,65587,30534,Middlesex,NJ
+Two Or More,2015,85123,36147,Monmouth,NJ
+Two Or More,2015,66821,25407,Morris,NJ
+Two Or More,2015,70134,15554,Ocean,NJ
+Two Or More,2015,37293,36516,Passaic,NJ
+Two Or More,2015,83666,27668,Somerset,NJ
+Two Or More,2015,94614,9917,Sussex,NJ
+Two Or More,2015,68394,16149,Union,NJ
+White Non-Hispanic,2015,65062,6840,Atlantic,NJ
+White Non-Hispanic,2015,95553,4618,Bergen,NJ
+White Non-Hispanic,2015,80871,2669,Burlington,NJ
+White Non-Hispanic,2015,76651,4058,Camden,NJ
+White Non-Hispanic,2015,61750,3865,Cape May,NJ
+White Non-Hispanic,2015,61188,6806,Cumberland,NJ
+White Non-Hispanic,2015,94033,4812,Essex,NJ
+White Non-Hispanic,2015,81849,2985,Gloucester,NJ
+White Non-Hispanic,2015,82265,4538,Hudson,NJ
+White Non-Hispanic,2015,102149,4155,Hunterdon,NJ
+White Non-Hispanic,2015,90945,3199,Mercer,NJ
+White Non-Hispanic,2015,79414,3738,Middlesex,NJ
+White Non-Hispanic,2015,93349,2757,Monmouth,NJ
+White Non-Hispanic,2015,103147,4367,Morris,NJ
+White Non-Hispanic,2015,64216,2168,Ocean,NJ
+White Non-Hispanic,2015,83812,5017,Passaic,NJ
+White Non-Hispanic,2015,76582,8900,Salem,NJ
+White Non-Hispanic,2015,100302,3856,Somerset,NJ
+White Non-Hispanic,2015,84488,6727,Sussex,NJ
+White Non-Hispanic,2015,94376,6629,Union,NJ
+White Non-Hispanic,2015,73517,5707,Warren,NJ
+Hispanic,2015,43014,2901,Atlantic,NJ
+Hispanic,2015,73414,6430,Bergen,NJ
+Hispanic,2015,61771,6596,Burlington,NJ
+Hispanic,2015,42899,7879,Camden,NJ
+Hispanic,2015,37589,9457,Cumberland,NJ
+Hispanic,2015,35601,3318,Essex,NJ
+Hispanic,2015,43744,11453,Gloucester,NJ
+Hispanic,2015,42647,2426,Hudson,NJ
+Hispanic,2015,43476,5389,Mercer,NJ
+Hispanic,2015,57353,6429,Middlesex,NJ
+Hispanic,2015,60303,10246,Monmouth,NJ
+Hispanic,2015,70699,15292,Morris,NJ
+Hispanic,2015,59144,7530,Ocean,NJ
+Hispanic,2015,36280,2036,Passaic,NJ
+Hispanic,2015,65250,23557,Salem,NJ
+Hispanic,2015,63059,15216,Somerset,NJ
+Hispanic,2015,76843,4237,Sussex,NJ
+Hispanic,2015,51802,7247,Union,NJ
+Hispanic,2015,38629,24897,Warren,NJ
+Total,2014,55313,3112,Atlantic,NJ
+Total,2014,84677,3148,Bergen,NJ
+Total,2014,80896,2035,Burlington,NJ
+Total,2014,62330,2612,Camden,NJ
+Total,2014,56899,4079,Cape May,NJ
+Total,2014,45339,2682,Cumberland,NJ
+Total,2014,54754,1899,Essex,NJ
+Total,2014,79704,2504,Gloucester,NJ
+Total,2014,58479,2567,Hudson,NJ
+Total,2014,103605,5738,Hunterdon,NJ
+Total,2014,74961,3786,Mercer,NJ
+Total,2014,77682,2806,Middlesex,NJ
+Total,2014,88413,4469,Monmouth,NJ
+Total,2014,100579,2151,Morris,NJ
+Total,2014,63653,2772,Ocean,NJ
+Total,2014,58804,2722,Passaic,NJ
+Total,2014,57377,8142,Salem,NJ
+Total,2014,100301,3156,Somerset,NJ
+Total,2014,82075,4925,Sussex,NJ
+Total,2014,69032,3571,Union,NJ
+Total,2014,71444,3365,Warren,NJ
+White,2014,63418,4320,Atlantic,NJ
+White,2014,87398,3360,Bergen,NJ
+White,2014,82081,2600,Burlington,NJ
+White,2014,71700,2391,Camden,NJ
+White,2014,58165,4146,Cape May,NJ
+White,2014,51484,5183,Cumberland,NJ
+White,2014,80913,3963,Essex,NJ
+White,2014,82228,2864,Gloucester,NJ
+White,2014,58102,3085,Hudson,NJ
+White,2014,102934,5107,Hunterdon,NJ
+White,2014,82034,4824,Mercer,NJ
+White,2014,71620,2196,Middlesex,NJ
+White,2014,92225,2553,Monmouth,NJ
+White,2014,101599,2385,Morris,NJ
+White,2014,64320,2676,Ocean,NJ
+White,2014,76554,4403,Passaic,NJ
+White,2014,65162,5280,Salem,NJ
+White,2014,99993,4365,Somerset,NJ
+White,2014,81891,4819,Sussex,NJ
+White,2014,82091,5606,Union,NJ
+White,2014,72042,3714,Warren,NJ
+Black,2014,28387,3870,Atlantic,NJ
+Black,2014,70366,13546,Bergen,NJ
+Black,2014,70116,4849,Burlington,NJ
+Black,2014,38768,5079,Camden,NJ
+Black,2014,47796,31438,Cape May,NJ
+Black,2014,35011,9587,Cumberland,NJ
+Black,2014,39828,2087,Essex,NJ
+Black,2014,60683,15774,Gloucester,NJ
+Black,2014,44317,4387,Hudson,NJ
+Black,2014,44336,7202,Mercer,NJ
+Black,2014,70887,10419,Middlesex,NJ
+Black,2014,46300,6869,Monmouth,NJ
+Black,2014,69158,20186,Morris,NJ
+Black,2014,52065,10894,Ocean,NJ
+Black,2014,36479,3677,Passaic,NJ
+Black,2014,29527,7839,Salem,NJ
+Black,2014,69439,14154,Somerset,NJ
+Black,2014,84565,59522,Sussex,NJ
+Black,2014,51918,4095,Union,NJ
+Native American,2014,31356,6919,Bergen,NJ
+Native American,2014,63635,21832,Burlington,NJ
+Native American,2014,22327,8416,Camden,NJ
+Native American,2014,33467,8598,Essex,NJ
+Native American,2014,33949,19951,Hudson,NJ
+Native American,2014,55106,20411,Mercer,NJ
+Native American,2014,77530,43452,Middlesex,NJ
+Native American,2014,65902,40520,Passaic,NJ
+Native American,2014,17132,8910,Salem,NJ
+Native American,2014,90224,53874,Union,NJ
+Asian,2014,56227,8159,Atlantic,NJ
+Asian,2014,98820,10411,Bergen,NJ
+Asian,2014,120315,22866,Burlington,NJ
+Asian,2014,70792,13654,Camden,NJ
+Asian,2014,18614,1825,Cape May,NJ
+Asian,2014,101550,17851,Essex,NJ
+Asian,2014,112806,39701,Gloucester,NJ
+Asian,2014,93030,8047,Hudson,NJ
+Asian,2014,132268,90333,Hunterdon,NJ
+Asian,2014,136522,20140,Mercer,NJ
+Asian,2014,111377,6224,Middlesex,NJ
+Asian,2014,130019,23957,Monmouth,NJ
+Asian,2014,111604,11297,Morris,NJ
+Asian,2014,118580,48266,Ocean,NJ
+Asian,2014,94682,16093,Passaic,NJ
+Asian,2014,250001,NA,Salem,NJ
+Asian,2014,133351,18564,Somerset,NJ
+Asian,2014,93456,76978,Sussex,NJ
+Asian,2014,131034,23008,Union,NJ
+Asian,2014,101530,79945,Warren,NJ
+Other,2014,43817,10180,Atlantic,NJ
+Other,2014,56644,8778,Bergen,NJ
+Other,2014,53984,16212,Burlington,NJ
+Other,2014,42516,4582,Camden,NJ
+Other,2014,49020,48539,Cape May,NJ
+Other,2014,34151,7047,Cumberland,NJ
+Other,2014,37856,4080,Essex,NJ
+Other,2014,55876,19115,Gloucester,NJ
+Other,2014,41422,4660,Hudson,NJ
+Other,2014,47689,12900,Mercer,NJ
+Other,2014,59192,10579,Middlesex,NJ
+Other,2014,46292,15020,Monmouth,NJ
+Other,2014,65910,8853,Morris,NJ
+Other,2014,43212,7706,Ocean,NJ
+Other,2014,32221,4268,Passaic,NJ
+Other,2014,30986,15999,Salem,NJ
+Other,2014,49526,39079,Somerset,NJ
+Other,2014,46316,4338,Union,NJ
+Other,2014,31828,9658,Warren,NJ
+Two Or More,2014,50944,20201,Atlantic,NJ
+Two Or More,2014,58042,19324,Bergen,NJ
+Two Or More,2014,78088,13892,Burlington,NJ
+Two Or More,2014,64135,5966,Camden,NJ
+Two Or More,2014,29375,26794,Cape May,NJ
+Two Or More,2014,37509,20433,Essex,NJ
+Two Or More,2014,49948,33461,Gloucester,NJ
+Two Or More,2014,72993,15230,Hudson,NJ
+Two Or More,2014,145913,92281,Hunterdon,NJ
+Two Or More,2014,54686,29876,Mercer,NJ
+Two Or More,2014,59204,19941,Middlesex,NJ
+Two Or More,2014,65439,44665,Monmouth,NJ
+Two Or More,2014,125009,44644,Morris,NJ
+Two Or More,2014,68527,14637,Ocean,NJ
+Two Or More,2014,52293,13763,Passaic,NJ
+Two Or More,2014,103311,12086,Somerset,NJ
+Two Or More,2014,91685,81755,Sussex,NJ
+Two Or More,2014,58655,36314,Union,NJ
+Two Or More,2014,61178,14359,Warren,NJ
+White Non-Hispanic,2014,67822,3405,Atlantic,NJ
+White Non-Hispanic,2014,91189,1958,Bergen,NJ
+White Non-Hispanic,2014,82307,2732,Burlington,NJ
+White Non-Hispanic,2014,72733,3152,Camden,NJ
+White Non-Hispanic,2014,58039,4001,Cape May,NJ
+White Non-Hispanic,2014,55137,4931,Cumberland,NJ
+White Non-Hispanic,2014,90722,5554,Essex,NJ
+White Non-Hispanic,2014,82816,2794,Gloucester,NJ
+White Non-Hispanic,2014,75340,4735,Hudson,NJ
+White Non-Hispanic,2014,103835,5486,Hunterdon,NJ
+White Non-Hispanic,2014,93583,7250,Mercer,NJ
+White Non-Hispanic,2014,78015,4225,Middlesex,NJ
+White Non-Hispanic,2014,93000,3278,Monmouth,NJ
+White Non-Hispanic,2014,102464,2654,Morris,NJ
+White Non-Hispanic,2014,64359,2703,Ocean,NJ
+White Non-Hispanic,2014,82517,3506,Passaic,NJ
+White Non-Hispanic,2014,67188,5896,Salem,NJ
+White Non-Hispanic,2014,104992,5411,Somerset,NJ
+White Non-Hispanic,2014,81083,4680,Sussex,NJ
+White Non-Hispanic,2014,93912,5448,Union,NJ
+White Non-Hispanic,2014,72971,4768,Warren,NJ
+Hispanic,2014,41882,3050,Atlantic,NJ
+Hispanic,2014,60505,3497,Bergen,NJ
+Hispanic,2014,68958,13447,Burlington,NJ
+Hispanic,2014,42771,3774,Camden,NJ
+Hispanic,2014,37080,6792,Cumberland,NJ
+Hispanic,2014,43845,4679,Essex,NJ
+Hispanic,2014,52326,15203,Gloucester,NJ
+Hispanic,2014,41468,1503,Hudson,NJ
+Hispanic,2014,90804,57054,Hunterdon,NJ
+Hispanic,2014,44020,5192,Mercer,NJ
+Hispanic,2014,52398,5729,Middlesex,NJ
+Hispanic,2014,57696,20478,Monmouth,NJ
+Hispanic,2014,77111,10710,Morris,NJ
+Hispanic,2014,55205,12338,Ocean,NJ
+Hispanic,2014,40907,3105,Passaic,NJ
+Hispanic,2014,30793,8302,Salem,NJ
+Hispanic,2014,62900,10648,Somerset,NJ
+Hispanic,2014,105677,61963,Sussex,NJ
+Hispanic,2014,49698,3991,Union,NJ
+Hispanic,2014,50234,14401,Warren,NJ
+Total,2013,52127,2250,Atlantic,NJ
+Total,2013,81670,1288,Bergen,NJ
+Total,2013,77398,2511,Burlington,NJ
+Total,2013,58006,3347,Camden,NJ
+Total,2013,60560,4810,Cape May,NJ
+Total,2013,45978,2820,Cumberland,NJ
+Total,2013,53610,2515,Essex,NJ
+Total,2013,71355,2905,Gloucester,NJ
+Total,2013,56079,1860,Hudson,NJ
+Total,2013,110457,8455,Hunterdon,NJ
+Total,2013,70857,2063,Mercer,NJ
+Total,2013,76848,2276,Middlesex,NJ
+Total,2013,83749,2555,Monmouth,NJ
+Total,2013,100176,2380,Morris,NJ
+Total,2013,60227,2316,Ocean,NJ
+Total,2013,58898,3312,Passaic,NJ
+Total,2013,61943,6739,Salem,NJ
+Total,2013,97219,4417,Somerset,NJ
+Total,2013,88407,6008,Sussex,NJ
+Total,2013,64593,2913,Union,NJ
+Total,2013,67208,6343,Warren,NJ
+White,2013,60569,1865,Atlantic,NJ
+White,2013,84084,3419,Bergen,NJ
+White,2013,78824,2870,Burlington,NJ
+White,2013,67681,3747,Camden,NJ
+White,2013,60555,4984,Cape May,NJ
+White,2013,49279,5307,Cumberland,NJ
+White,2013,76498,4807,Essex,NJ
+White,2013,73449,3744,Gloucester,NJ
+White,2013,57341,3071,Hudson,NJ
+White,2013,111757,5924,Hunterdon,NJ
+White,2013,81736,4996,Mercer,NJ
+White,2013,71913,2726,Middlesex,NJ
+White,2013,87132,3837,Monmouth,NJ
+White,2013,100123,2930,Morris,NJ
+White,2013,60475,2102,Ocean,NJ
+White,2013,67103,3749,Passaic,NJ
+White,2013,65768,6245,Salem,NJ
+White,2013,96588,5307,Somerset,NJ
+White,2013,89486,6018,Sussex,NJ
+White,2013,78335,3951,Union,NJ
+White,2013,68227,6623,Warren,NJ
+Black,2013,29283,11806,Atlantic,NJ
+Black,2013,60736,10036,Bergen,NJ
+Black,2013,66935,2574,Burlington,NJ
+Black,2013,36534,4301,Camden,NJ
+Black,2013,40724,11821,Cape May,NJ
+Black,2013,34992,4913,Cumberland,NJ
+Black,2013,36875,1971,Essex,NJ
+Black,2013,60823,9754,Gloucester,NJ
+Black,2013,40670,3435,Hudson,NJ
+Black,2013,86645,33627,Hunterdon,NJ
+Black,2013,39586,7303,Mercer,NJ
+Black,2013,60263,5499,Middlesex,NJ
+Black,2013,42685,4371,Monmouth,NJ
+Black,2013,81051,24834,Morris,NJ
+Black,2013,35220,14727,Ocean,NJ
+Black,2013,35482,6015,Passaic,NJ
+Black,2013,33031,9247,Salem,NJ
+Black,2013,57020,15266,Somerset,NJ
+Black,2013,35453,28504,Sussex,NJ
+Black,2013,47290,6759,Union,NJ
+Black,2013,34472,34088,Warren,NJ
+Native American,2013,63515,1122,Cumberland,NJ
+Native American,2013,22130,15659,Essex,NJ
+Native American,2013,43728,30035,Passaic,NJ
+Asian,2013,34518,10934,Atlantic,NJ
+Asian,2013,92433,3835,Bergen,NJ
+Asian,2013,107333,24396,Burlington,NJ
+Asian,2013,85671,19390,Camden,NJ
+Asian,2013,106727,84733,Cape May,NJ
+Asian,2013,110143,14851,Essex,NJ
+Asian,2013,107031,34576,Gloucester,NJ
+Asian,2013,96482,6525,Hudson,NJ
+Asian,2013,109969,19586,Mercer,NJ
+Asian,2013,106646,6483,Middlesex,NJ
+Asian,2013,141966,24820,Monmouth,NJ
+Asian,2013,121362,19335,Morris,NJ
+Asian,2013,83597,28442,Ocean,NJ
+Asian,2013,92376,17520,Passaic,NJ
+Asian,2013,92237,9211,Salem,NJ
+Asian,2013,151431,16606,Somerset,NJ
+Asian,2013,102459,62461,Sussex,NJ
+Asian,2013,115846,29606,Union,NJ
+Asian,2013,71875,40712,Warren,NJ
+Other,2013,38955,8051,Atlantic,NJ
+Other,2013,56443,5474,Bergen,NJ
+Other,2013,71534,16813,Burlington,NJ
+Other,2013,33443,13772,Camden,NJ
+Other,2013,105962,79688,Cape May,NJ
+Other,2013,36246,9691,Cumberland,NJ
+Other,2013,36033,5079,Essex,NJ
+Other,2013,35922,3235,Gloucester,NJ
+Other,2013,42060,5046,Hudson,NJ
+Other,2013,51354,5720,Mercer,NJ
+Other,2013,44171,7675,Middlesex,NJ
+Other,2013,45738,4294,Monmouth,NJ
+Other,2013,46485,12994,Morris,NJ
+Other,2013,58864,57345,Ocean,NJ
+Other,2013,35786,7767,Passaic,NJ
+Other,2013,74777,24109,Somerset,NJ
+Other,2013,84000,46091,Sussex,NJ
+Other,2013,41193,5231,Union,NJ
+Two Or More,2013,33946,14170,Atlantic,NJ
+Two Or More,2013,84824,23072,Bergen,NJ
+Two Or More,2013,79831,26536,Burlington,NJ
+Two Or More,2013,47863,11593,Camden,NJ
+Two Or More,2013,59702,25249,Essex,NJ
+Two Or More,2013,69867,27211,Gloucester,NJ
+Two Or More,2013,53807,17468,Hudson,NJ
+Two Or More,2013,68377,23091,Middlesex,NJ
+Two Or More,2013,41656,14713,Monmouth,NJ
+Two Or More,2013,103284,72914,Morris,NJ
+Two Or More,2013,45929,31525,Ocean,NJ
+Two Or More,2013,40601,7703,Passaic,NJ
+Two Or More,2013,88000,51509,Somerset,NJ
+Two Or More,2013,58362,22491,Union,NJ
+Two Or More,2013,55714,17222,Warren,NJ
+White Non-Hispanic,2013,62030,2458,Atlantic,NJ
+White Non-Hispanic,2013,88868,3838,Bergen,NJ
+White Non-Hispanic,2013,78923,2671,Burlington,NJ
+White Non-Hispanic,2013,69798,3837,Camden,NJ
+White Non-Hispanic,2013,61454,4415,Cape May,NJ
+White Non-Hispanic,2013,50651,5183,Cumberland,NJ
+White Non-Hispanic,2013,86976,5389,Essex,NJ
+White Non-Hispanic,2013,73844,3749,Gloucester,NJ
+White Non-Hispanic,2013,71201,4568,Hudson,NJ
+White Non-Hispanic,2013,112598,5818,Hunterdon,NJ
+White Non-Hispanic,2013,83489,6092,Mercer,NJ
+White Non-Hispanic,2013,76770,3300,Middlesex,NJ
+White Non-Hispanic,2013,90600,4579,Monmouth,NJ
+White Non-Hispanic,2013,101240,1632,Morris,NJ
+White Non-Hispanic,2013,60858,1896,Ocean,NJ
+White Non-Hispanic,2013,80601,4441,Passaic,NJ
+White Non-Hispanic,2013,66711,4701,Salem,NJ
+White Non-Hispanic,2013,100387,4583,Somerset,NJ
+White Non-Hispanic,2013,90117,5576,Sussex,NJ
+White Non-Hispanic,2013,87444,5855,Union,NJ
+White Non-Hispanic,2013,70252,5257,Warren,NJ
+Hispanic,2013,43437,7337,Atlantic,NJ
+Hispanic,2013,58000,5132,Bergen,NJ
+Hispanic,2013,75045,7671,Burlington,NJ
+Hispanic,2013,35344,7213,Camden,NJ
+Hispanic,2013,26470,15903,Cape May,NJ
+Hispanic,2013,33314,5933,Cumberland,NJ
+Hispanic,2013,41709,2493,Essex,NJ
+Hispanic,2013,37578,25503,Gloucester,NJ
+Hispanic,2013,40939,2694,Hudson,NJ
+Hispanic,2013,87907,25871,Hunterdon,NJ
+Hispanic,2013,53623,6342,Mercer,NJ
+Hispanic,2013,52354,5181,Middlesex,NJ
+Hispanic,2013,46221,5565,Monmouth,NJ
+Hispanic,2013,65367,7671,Morris,NJ
+Hispanic,2013,49778,9459,Ocean,NJ
+Hispanic,2013,40681,1977,Passaic,NJ
+Hispanic,2013,39777,30648,Salem,NJ
+Hispanic,2013,75829,5489,Somerset,NJ
+Hispanic,2013,73550,35332,Sussex,NJ
+Hispanic,2013,47523,4855,Union,NJ
+Hispanic,2013,42242,26163,Warren,NJ

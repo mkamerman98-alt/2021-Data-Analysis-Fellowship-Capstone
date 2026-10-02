@@ -1,0 +1,99 @@
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,Geography,ID Geography,Slug Geography,Population,share
+0,"White Alone",0,"Not Hispanic or Latino",2019,"2019",4867,"New Jersey","04000US34","new-jersey",4824866,0.5432067992240652
+0,"White Alone",1,"Hispanic or Latino",2019,"2019",21974,"New Jersey","04000US34","new-jersey",1139429,0.12828243935335767
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2019,"2019",8662,"New Jersey","04000US34","new-jersey",1124643,0.12661775980923623
+1,"Black or African American Alone",1,"Hispanic or Latino",2019,"2019",6936,"New Jersey","04000US34","new-jersey",79200,0.008916719863006758
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2019,"2019",1852,"New Jersey","04000US34","new-jersey",9261,0.001042648265799313
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2019,"2019",3998,"New Jersey","04000US34","new-jersey",9179,0.001033416308365392
+3,"Asian Alone",0,"Not Hispanic or Latino",2019,"2019",7081,"New Jersey","04000US34","new-jersey",849020,0.09558678659204543
+3,"Asian Alone",1,"Hispanic or Latino",2019,"2019",2103,"New Jersey","04000US34","new-jersey",7541,0.0008490023293804793
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2019,"2019",1365,"New Jersey","04000US34","new-jersey",2714,0.00030555527409343864
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2019,"2019",384,"New Jersey","04000US34","new-jersey",540,0.00006079581724777335
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2019,"2019",5761,"New Jersey","04000US34","new-jersey",47706,0.005370972699300511
+5,"Some Other Race Alone",1,"Hispanic or Latino",2019,"2019",20043,"New Jersey","04000US34","new-jersey",523662,0.058956406021487946
+6,"Two or More Races",0,"Not Hispanic or Latino",2019,"2019",9567.59332329714,"New Jersey","04000US34","new-jersey",167135,0.01881686836241963
+6,"Two or More Races",1,"Hispanic or Latino",2019,"2019",9641.428628579895,"New Jersey","04000US34","new-jersey",97294,0.010953830080194186
+0,"White Alone",0,"Not Hispanic or Latino",2018,"2018",4937,"New Jersey","04000US34","new-jersey",4864534,0.5460541144881529
+0,"White Alone",1,"Hispanic or Latino",2018,"2018",23059,"New Jersey","04000US34","new-jersey",1092005,0.12257984491251073
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2018,"2018",8747,"New Jersey","04000US34","new-jersey",1137645,0.12770303035745556
+1,"Black or African American Alone",1,"Hispanic or Latino",2018,"2018",8394,"New Jersey","04000US34","new-jersey",70350,0.007896934619891969
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2018,"2018",1484,"New Jersey","04000US34","new-jersey",8921,0.0010014009060988806
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2018,"2018",4280,"New Jersey","04000US34","new-jersey",12210,0.001370598034241378
+3,"Asian Alone",0,"Not Hispanic or Latino",2018,"2018",5602,"New Jersey","04000US34","new-jersey",861223,0.09667408278816235
+3,"Asian Alone",1,"Hispanic or Latino",2018,"2018",1959,"New Jersey","04000US34","new-jersey",6990,0.0007846421178826561
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2018,"2018",890,"New Jersey","04000US34","new-jersey",1777,0.0001994719661627296
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2018,"2018",728,"New Jersey","04000US34","new-jersey",1132,0.00012706936730231283
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2018,"2018",7841,"New Jersey","04000US34","new-jersey",40261,0.00451938144607634
+5,"Some Other Race Alone",1,"Hispanic or Latino",2018,"2018",25267,"New Jersey","04000US34","new-jersey",564073,0.06331837387130522
+6,"Two or More Races",0,"Not Hispanic or Latino",2018,"2018",9986.285796030474,"New Jersey","04000US34","new-jersey",154800,0.017376623726500024
+6,"Two or More Races",1,"Hispanic or Latino",2018,"2018",10572.339003266969,"New Jersey","04000US34","new-jersey",92599,0.010394431398256949
+0,"White Alone",0,"Not Hispanic or Latino",2017,"2017",3396,"New Jersey","04000US34","new-jersey",4939479,0.5484870376843677
+0,"White Alone",1,"Hispanic or Latino",2017,"2017",21672,"New Jersey","04000US34","new-jersey",1172759,0.13022489008004315
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2017,"2017",7539,"New Jersey","04000US34","new-jersey",1148321,0.1275112584952281
+1,"Black or African American Alone",1,"Hispanic or Latino",2017,"2017",7934,"New Jersey","04000US34","new-jersey",69251,0.007689733238400274
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2017,"2017",1244,"New Jersey","04000US34","new-jersey",9074,0.001007590351117588
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2017,"2017",2580,"New Jersey","04000US34","new-jersey",8769,0.0009737227010083899
+3,"Asian Alone",0,"Not Hispanic or Latino",2017,"2017",5601,"New Jersey","04000US34","new-jersey",882064,0.09794568828170423
+3,"Asian Alone",1,"Hispanic or Latino",2017,"2017",1345,"New Jersey","04000US34","new-jersey",4197,0.00046604107379772064
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2017,"2017",988,"New Jersey","04000US34","new-jersey",1919,0.00021308859199852892
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2017,"2017",766,"New Jersey","04000US34","new-jersey",1852,0.0002056488131220821
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2017,"2017",5294,"New Jersey","04000US34","new-jersey",36707,0.004075999451010944
+5,"Some Other Race Alone",1,"Hispanic or Latino",2017,"2017",19178,"New Jersey","04000US34","new-jersey",501664,0.05570551089960918
+6,"Two or More Races",0,"Not Hispanic or Latino",2017,"2017",7663.114053699058,"New Jersey","04000US34","new-jersey",147647,0.016394940772697656
+6,"Two or More Races",1,"Hispanic or Latino",2017,"2017",7978.446026639523,"New Jersey","04000US34","new-jersey",81941,0.009098849565894455
+0,"White Alone",0,"Not Hispanic or Latino",2016,"2016",4507,"New Jersey","04000US34","new-jersey",4966755,0.5552878544271326
+0,"White Alone",1,"Hispanic or Latino",2016,"2016",21512,"New Jersey","04000US34","new-jersey",1124153,0.12568135682509493
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2016,"2016",8225,"New Jersey","04000US34","new-jersey",1130491,0.12638995115305335
+1,"Black or African American Alone",1,"Hispanic or Latino",2016,"2016",7151.999999999999,"New Jersey","04000US34","new-jersey",64094,0.007165769147391534
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2016,"2016",1274,"New Jersey","04000US34","new-jersey",8810,0.0009849662400305708
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2016,"2016",2899,"New Jersey","04000US34","new-jersey",11375,0.0012717356390860096
+3,"Asian Alone",0,"Not Hispanic or Latino",2016,"2016",6132,"New Jersey","04000US34","new-jersey",849117,0.09493207478275122
+3,"Asian Alone",1,"Hispanic or Latino",2016,"2016",1601,"New Jersey","04000US34","new-jersey",5064,0.0005661599363807958
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2016,"2016",1656,"New Jersey","04000US34","new-jersey",2840,0.0003175146562641114
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2016,"2016",590,"New Jersey","04000US34","new-jersey",914,0.00010218605486809782
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2016,"2016",5698,"New Jersey","04000US34","new-jersey",40991,0.004582832139057109
+5,"Some Other Race Alone",1,"Hispanic or Latino",2016,"2016",19324,"New Jersey","04000US34","new-jersey",502539,0.05618433022686981
+6,"Two or More Races",0,"Not Hispanic or Latino",2016,"2016",9455.251345152068,"New Jersey","04000US34","new-jersey",158796,0.017753541322575995
+6,"Two or More Races",1,"Hispanic or Latino",2016,"2016",6905.572532382814,"New Jersey","04000US34","new-jersey",78530,0.008779727449443896
+0,"White Alone",0,"Not Hispanic or Latino",2015,"2015",3217,"New Jersey","04000US34","new-jersey",5020807,0.5604822185455636
+0,"White Alone",1,"Hispanic or Latino",2015,"2015",20463,"New Jersey","04000US34","new-jersey",1039460,0.11603689344947367
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2015,"2015",7851,"New Jersey","04000US34","new-jersey",1134226,0.12661580196411862
+1,"Black or African American Alone",1,"Hispanic or Latino",2015,"2015",6228,"New Jersey","04000US34","new-jersey",64387,0.007187643063255211
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2015,"2015",1410,"New Jersey","04000US34","new-jersey",7968,0.0008894829690468187
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2015,"2015",3103,"New Jersey","04000US34","new-jersey",8902,0.0009937471624566743
+3,"Asian Alone",0,"Not Hispanic or Latino",2015,"2015",5628,"New Jersey","04000US34","new-jersey",842221,0.09401872937670441
+3,"Asian Alone",1,"Hispanic or Latino",2015,"2015",1936,"New Jersey","04000US34","new-jersey",7019,0.0007835442971560769
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2015,"2015",1042,"New Jersey","04000US34","new-jersey",2707,0.0003021875498506198
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2015,"2015",617,"New Jersey","04000US34","new-jersey",849,0.00009477548201816631
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2015,"2015",4313,"New Jersey","04000US34","new-jersey",32153,0.0035893004397292124
+5,"Some Other Race Alone",1,"Hispanic or Latino",2015,"2015",20733,"New Jersey","04000US34","new-jersey",553702,0.0618108055882482
+6,"Two or More Races",0,"Not Hispanic or Latino",2015,"2015",8735.636267610964,"New Jersey","04000US34","new-jersey",155752,0.017386891490333848
+6,"Two or More Races",1,"Hispanic or Latino",2015,"2015",7616.536548852109,"New Jersey","04000US34","new-jersey",87860,0.009807978622044867
+0,"White Alone",0,"Not Hispanic or Latino",2014,"2014",3659,"New Jersey","04000US34","new-jersey",5059967,0.5661073988817628
+0,"White Alone",1,"Hispanic or Latino",2014,"2014",22629,"New Jersey","04000US34","new-jersey",993689,0.11117358968693274
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2014,"2014",7465,"New Jersey","04000US34","new-jersey",1145128,0.1281165338561843
+1,"Black or African American Alone",1,"Hispanic or Latino",2014,"2014",6651,"New Jersey","04000US34","new-jersey",66926,0.0074876582747596685
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2014,"2014",1191,"New Jersey","04000US34","new-jersey",9792,0.0010955256526080548
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2014,"2014",2009,"New Jersey","04000US34","new-jersey",5478,0.0006128767897249718
+3,"Asian Alone",0,"Not Hispanic or Latino",2014,"2014",4585,"New Jersey","04000US34","new-jersey",823584,0.09214229974239707
+3,"Asian Alone",1,"Hispanic or Latino",2014,"2014",1224,"New Jersey","04000US34","new-jersey",3909,0.0004373375996777866
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2014,"2014",1036,"New Jersey","04000US34","new-jersey",2294,0.00025665194516777753
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2014,"2014",264,"New Jersey","04000US34","new-jersey",301,0.00003367577833282521
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2014,"2014",4496,"New Jersey","04000US34","new-jersey",36607,0.0040955787954476165
+5,"Some Other Race Alone",1,"Hispanic or Latino",2014,"2014",21891,"New Jersey","04000US34","new-jersey",584592,0.06540395550545833
+6,"Two or More Races",0,"Not Hispanic or Latino",2014,"2014",8139.7125256362715,"New Jersey","04000US34","new-jersey",131631,0.014726831819694737
+6,"Two or More Races",1,"Hispanic or Latino",2014,"2014",6852.573604128598,"New Jersey","04000US34","new-jersey",74277,0.008310085671851356
+0,"White Alone",0,"Not Hispanic or Latino",2013,"2013",4698,"New Jersey","04000US34","new-jersey",5099422,0.5730113214026346
+0,"White Alone",1,"Hispanic or Latino",2013,"2013",24063,"New Jersey","04000US34","new-jersey",969053,0.10889044680734153
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2013,"2013",7094.999999999999,"New Jersey","04000US34","new-jersey",1135008,0.12753846100255312
+1,"Black or African American Alone",1,"Hispanic or Latino",2013,"2013",9264,"New Jersey","04000US34","new-jersey",80828,0.009082472304965571
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2013,"2013",1308,"New Jersey","04000US34","new-jersey",8701,0.0009777130638578889
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2013,"2013",2581,"New Jersey","04000US34","new-jersey",7721,0.0008675925256920767
+3,"Asian Alone",0,"Not Hispanic or Latino",2013,"2013",5965,"New Jersey","04000US34","new-jersey",796851,0.08954047036527095
+3,"Asian Alone",1,"Hispanic or Latino",2013,"2013",1362,"New Jersey","04000US34","new-jersey",5028,0.0005649857815282686
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2013,"2013",596,"New Jersey","04000US34","new-jersey",1118,0.00012562730782589583
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2013,"2013",461.00000000000006,"New Jersey","04000US34","new-jersey",515,0.00005786946648509513
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2013,"2013",5145,"New Jersey","04000US34","new-jersey",39904,0.004483928525478128
+5,"Some Other Race Alone",1,"Hispanic or Latino",2013,"2013",22159,"New Jersey","04000US34","new-jersey",537852,0.06043729764648813
+6,"Two or More Races",0,"Not Hispanic or Latino",2013,"2013",9071.66032212406,"New Jersey","04000US34","new-jersey",134321,0.015093368170377599
+6,"Two or More Races",1,"Hispanic or Latino",2013,"2013",8927.370553528066,"New Jersey","04000US34","new-jersey",83017,0.009328445629501247
